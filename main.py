@@ -1,1 +1,0 @@
-print("aku belajar github")
